@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Recepies/static/css/main.22cbd1ad.css",
+    "main.js": "/Recepies/static/js/main.07f62984.js",
+    "static/js/787.d71544fd.chunk.js": "/Recepies/static/js/787.d71544fd.chunk.js",
+    "static/media/tomato.jpg": "/Recepies/static/media/tomato.bb925e0b15074edf0f9b.jpg",
+    "index.html": "/Recepies/index.html",
+    "main.22cbd1ad.css.map": "/Recepies/static/css/main.22cbd1ad.css.map",
+    "main.07f62984.js.map": "/Recepies/static/js/main.07f62984.js.map",
+    "787.d71544fd.chunk.js.map": "/Recepies/static/js/787.d71544fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22cbd1ad.css",
+    "static/js/main.07f62984.js"
+  ]
+}
