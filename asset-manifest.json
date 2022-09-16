@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Recepies/static/css/main.22cbd1ad.css",
-    "main.js": "/Recepies/static/js/main.07f62984.js",
-    "static/js/787.d71544fd.chunk.js": "/Recepies/static/js/787.d71544fd.chunk.js",
-    "static/media/tomato.jpg": "/Recepies/static/media/tomato.bb925e0b15074edf0f9b.jpg",
-    "index.html": "/Recepies/index.html",
-    "main.22cbd1ad.css.map": "/Recepies/static/css/main.22cbd1ad.css.map",
-    "main.07f62984.js.map": "/Recepies/static/js/main.07f62984.js.map",
-    "787.d71544fd.chunk.js.map": "/Recepies/static/js/787.d71544fd.chunk.js.map"
+    "main.css": "/RecepiesApp/static/css/main.0cd5c950.css",
+    "main.js": "/RecepiesApp/static/js/main.671245ad.js",
+    "static/js/787.d71544fd.chunk.js": "/RecepiesApp/static/js/787.d71544fd.chunk.js",
+    "static/media/tomato.jpg": "/RecepiesApp/static/media/tomato.bb925e0b15074edf0f9b.jpg",
+    "index.html": "/RecepiesApp/index.html",
+    "main.0cd5c950.css.map": "/RecepiesApp/static/css/main.0cd5c950.css.map",
+    "main.671245ad.js.map": "/RecepiesApp/static/js/main.671245ad.js.map",
+    "787.d71544fd.chunk.js.map": "/RecepiesApp/static/js/787.d71544fd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.22cbd1ad.css",
-    "static/js/main.07f62984.js"
+    "static/css/main.0cd5c950.css",
+    "static/js/main.671245ad.js"
   ]
 }
