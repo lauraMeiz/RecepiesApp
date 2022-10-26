@@ -24,16 +24,19 @@ body {
     margin: 0 calc(50% - 250px);
   }
   @media (max-width: 500px) {
-    width: 300px;
+    width: 100%;
     margin: 0;
-    margin: 0 calc(50% - 150px);
+    padding: 0;
   }
   @media (max-width: 375px) {
     width: 100%;
     padding: 0;
     margin: 0;
-    //margin: calc(50% - 160px);
   }
+}
+ul {
+  margin: 0;
+  padding: 0;
 }
 .title {
   padding: 10px;
@@ -144,7 +147,6 @@ body {
     margin: 0 calc(50% - 150px);
   }
   @media (max-width: 500px) {
-    width: 100%;
     margin: 0;
     padding: 0;
   }
@@ -234,6 +236,7 @@ table {
   @media (max-width: 375px) {
     width: 100%;
     padding: 0;
+    margin: 0;
   }
 }
 th {
@@ -386,6 +389,7 @@ img {
   @media (max-width: 500px) {
     width: 100%;
     margin: 0;
+    padding: 0;
   }
 }
 // .ingridient-img {
@@ -421,7 +425,9 @@ img {
     margin: 0 calc(50% - 250px);
   }
   @media (max-width: 500px) {
-    width: 375px;
+    width: 100%;
+    padding: 0;
+    margin: 0;
   }
   h1 {
     width: 500px;
