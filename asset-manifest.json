@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/RecepiesApp/static/css/main.0cd5c950.css",
+    "main.css": "/RecepiesApp/static/css/main.05c0d87e.css",
     "main.js": "/RecepiesApp/static/js/main.671245ad.js",
     "static/js/787.d71544fd.chunk.js": "/RecepiesApp/static/js/787.d71544fd.chunk.js",
     "static/media/tomato.jpg": "/RecepiesApp/static/media/tomato.bb925e0b15074edf0f9b.jpg",
     "index.html": "/RecepiesApp/index.html",
-    "main.0cd5c950.css.map": "/RecepiesApp/static/css/main.0cd5c950.css.map",
+    "main.05c0d87e.css.map": "/RecepiesApp/static/css/main.05c0d87e.css.map",
     "main.671245ad.js.map": "/RecepiesApp/static/js/main.671245ad.js.map",
     "787.d71544fd.chunk.js.map": "/RecepiesApp/static/js/787.d71544fd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0cd5c950.css",
+    "static/css/main.05c0d87e.css",
     "static/js/main.671245ad.js"
   ]
 }
